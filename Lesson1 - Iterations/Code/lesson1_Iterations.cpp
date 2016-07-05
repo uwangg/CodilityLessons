@@ -15,8 +15,8 @@ int main() {
 int solution(int N) {
 	int arr[100];
 	int cnt = 0;
-	int max = 0;	// ÃÖ´ë ±æÀÌ
-	int lengthCount = 0;	// ±æÀÌ
+	int max = 0;	// ìµœëŒ€ ê¸¸ì´
+	int lengthCount = 0;	// ê¸¸ì´
 	bool encounterOne = false;
 
 	while (1) {
